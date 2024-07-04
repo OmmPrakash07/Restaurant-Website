@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: darkred;
+    font-size: 45px;
+    border: solid burlywood 5px;
+    border-radius: 10px;
+}
+#time{
+   font-size: large;
+}
+#bookmark{
+    font-size: large;
+    line-height: 15px;
+    
+}
